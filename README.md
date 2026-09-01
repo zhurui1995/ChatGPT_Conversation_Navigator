@@ -99,6 +99,8 @@ Otherwise, the adjacent assistant response is repositioned so that ChatGPT loads
 
 ## Installation
 
+![Installation](img/install.png)
+
 ### Chrome / Edge / Chromium-based Browsers
 
 1. Show the bookmarks bar.
@@ -134,7 +136,7 @@ Otherwise, the adjacent assistant response is repositioned so that ChatGPT loads
 ---
 
 ## Usage
-
+![Installation](img/use_it.png)
 1. Open a conversation on:
 
    ```text
