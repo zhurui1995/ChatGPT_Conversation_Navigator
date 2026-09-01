@@ -335,13 +335,7 @@ Please avoid posting private conversation content in public issues.
 
 ## License
 
-Add the license of your choice before publishing the repository.
-
-Common choices include:
-
-* MIT
-* Apache-2.0
-* GPL-3.0
+MIT License.
 
 ---
 
@@ -736,8 +730,7 @@ Bookmarklet 可以在当前网页上下文中执行 JavaScript。
 ---
 
 ## License
-
-发布仓库前，请添加你希望使用的开源许可证。
+MIT License。
 
 常见选择包括：
 
