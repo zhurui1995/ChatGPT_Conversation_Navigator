@@ -137,6 +137,7 @@ Otherwise, the adjacent assistant response is repositioned so that ChatGPT loads
 
 ## Usage
 ![Installation](img/use_it.png)
+
 1. Open a conversation on:
 
    ```text
@@ -455,6 +456,8 @@ ChatGPT 更新附近 DOM 后，脚本重新扫描并寻找对应的上一条 Use
 
 ## 安装
 
+![Installation](img/install.png)
+
 ### Chrome / Edge / Chromium 浏览器
 
 1. 显示书签栏。
@@ -498,6 +501,7 @@ ChatGPT 更新附近 DOM 后，脚本重新扫描并寻找对应的上一条 Use
 ---
 
 ## 使用方法
+![Installation](img/use_it.png)
 
 1. 打开：
 
