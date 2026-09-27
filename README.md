@@ -13,6 +13,15 @@ It is designed for long conversations where browser scrolling or ChatGPT's built
 No browser extension is required.
 
 ---
+fix: adapt navigation to ChatGPT's updated DOM structure
+
+- Replace deprecated `data-message-author-role` selectors
+- Use `data-chatgpt-search-unit-key` to identify user and assistant messages
+- Use `data-turn-key` as the turn identifier
+- Scope message scanning to the current conversation container
+- Preserve existing navigation and scrolling behavior
+
+---
 
 ## TL;DR
 
